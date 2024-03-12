@@ -29,3 +29,5 @@ vim.opt.listchars = {
 vim.opt.showmode = false
 vim.opt.breakindent = true
 
+-- Always display tabs
+vim.opt.showtabline = 2
